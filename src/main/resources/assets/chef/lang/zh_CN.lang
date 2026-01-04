@@ -37,7 +37,8 @@ item.starch.name=淀粉
 //Armor
 item.chef_hat.name=厨师帽
 item.chef_body.name=厨师衣服
-item.chef_leggings.name=厨师裤子item.chef_boots.name=厨师鞋子
+item.chef_leggings.name=厨师裤子
+item.chef_boots.name=厨师鞋子
 
 //Tools
 item.cutting_knife.name=切刀
@@ -402,3 +403,4 @@ item.milk_barrel_reed.name=牛奶桶
 tile.butter_churn.name=黄油搅拌器
 
 itemGroup.tabChef=厨艺大师
+
