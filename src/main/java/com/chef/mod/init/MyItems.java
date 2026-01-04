@@ -659,6 +659,7 @@ public class MyItems {
         GameRegistry.registerItem((Item)strawberry_toast, (String)strawberry_toast.getUnlocalizedName().substring(5));
         GameRegistry.registerItem((Item)blueberry_toast, (String)blueberry_toast.getUnlocalizedName().substring(5));
         GameRegistry.registerItem((Item)butter_toast, (String)butter_toast.getUnlocalizedName().substring(5));
+        GameRegistry.registerItem((Item)bruschetta, (String)bruschetta.getUnlocalizedName().substring(5));
         GameRegistry.registerItem((Item)pumpkin_bread, (String)pumpkin_bread.getUnlocalizedName().substring(5));
         GameRegistry.registerItem((Item)raisin_bread, (String)raisin_bread.getUnlocalizedName().substring(5));
         GameRegistry.registerItem((Item)corn_bread, (String)corn_bread.getUnlocalizedName().substring(5));
