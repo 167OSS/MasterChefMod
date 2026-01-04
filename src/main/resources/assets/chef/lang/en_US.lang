@@ -37,8 +37,7 @@ item.starch.name=Starch
 
 //Armor
 
-item.chef_hat.name=Chef Hat
-item.chef_body.name=Chef Body
+item.chef_hat.name=Chef Hatitem.chef_body.name=Chef Body
 item.chef_leggings.name=Chef Leggings
 item.chef_boots.name=Chef Boots
 
@@ -102,6 +101,7 @@ item.toast_with_lettuce.name=Toast With Lettuce
 item.strawberry_toast.name=Strawberry Toast
 item.blueberry_toast.name=Blueberry Toast
 item.butter_toast.name=Butter Toast
+item.bruschetta.name=Bruschetta
 item.pumpkin_bread.name=Pumpkin Bread
 item.raisin_bread.name=Raisin Bread
 
