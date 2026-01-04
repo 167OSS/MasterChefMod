@@ -37,7 +37,8 @@ item.starch.name=Starch
 
 //Armor
 
-item.chef_hat.name=Chef Hatitem.chef_body.name=Chef Body
+item.chef_hat.name=Chef Hat
+item.chef_body.name=Chef Body
 item.chef_leggings.name=Chef Leggings
 item.chef_boots.name=Chef Boots
 
